@@ -1,0 +1,762 @@
+09:15:07.789 [main] INFO  - Open urban_ladder application
+09:15:08.482 [main] INFO  - clicking on the study
+09:15:09.089 [main] INFO  - selecting bookshelves from the dropdown
+09:15:16.000 [main] INFO  - Popup will be displayed
+09:15:16.347 [main] INFO  - closeing the popup
+09:15:16.794 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+09:15:17.113 [main] INFO  - clicking on the storage type
+09:15:17.366 [main] INFO  - selecting open from the dropdown
+09:15:22.733 [main] INFO  - clicked on the price
+09:15:23.196 [main] INFO  - slideing the price slide bar
+09:15:24.054 [main] INFO  - extracting name and price of the bookshelves
+09:15:25.317 [main] INFO  - displaying the same in the console
+09:15:25.676 [main] INFO  - storeing data in excel sheet
+09:15:35.284 [main] INFO  - clicking on the Trending
+09:15:35.884 [main] INFO  - selecting UL Collections from the dropdown
+09:15:37.696 [main] INFO  - clicking on the Category
+09:15:38.110 [main] INFO  - extracting sub-menu items and store it in a List
+09:15:39.190 [main] INFO  - displaying the same List in the console
+09:15:39.468 [main] INFO  - storing data in excel sheet
+09:15:48.568 [main] INFO  - clicking on the gift card
+09:15:50.885 [main] INFO  - hovering over the birthday anniversary
+09:15:51.221 [main] INFO  - clicking on the Chosen
+09:15:51.468 [main] INFO  - clicking on the Amount
+09:15:51.756 [main] INFO  - clicking on next button
+09:15:52.179 [main] INFO  - fill the form
+09:15:52.624 [main] INFO  - extracting error message from to details
+09:15:52.788 [main] INFO  - displaying the error message in the console
+09:15:52.897 [main] INFO  - storing error message data in excel sheet
+09:45:06.487 [main] INFO  - Open urban_ladder application
+09:45:07.168 [main] INFO  - clicking on the study
+09:45:07.794 [main] INFO  - selecting bookshelves from the dropdown
+09:45:14.392 [main] INFO  - Popup will be displayed
+09:45:14.785 [main] INFO  - closeing the popup
+09:45:15.175 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+09:45:15.497 [main] INFO  - clicking on the storage type
+09:45:15.835 [main] INFO  - selecting open from the dropdown
+09:45:21.397 [main] INFO  - clicked on the price
+09:45:21.939 [main] INFO  - slideing the price slide bar
+09:45:22.762 [main] INFO  - extracting name and price of the bookshelves
+09:45:32.306 [main] INFO  - clicking on the Trending
+09:45:32.920 [main] INFO  - selecting UL Collections from the dropdown
+09:45:35.347 [main] INFO  - clicking on the Category
+09:45:35.751 [main] INFO  - extracting sub-menu items and store it in a List
+09:45:37.095 [main] INFO  - displaying the same List in the console
+09:45:37.393 [main] INFO  - storing data in excel sheet
+09:45:47.513 [main] INFO  - clicking on the gift card
+09:45:49.933 [main] INFO  - hovering over the birthday anniversary
+09:45:50.309 [main] INFO  - clicking on the Chosen
+09:45:50.575 [main] INFO  - clicking on the Amount
+09:45:50.911 [main] INFO  - clicking on next button
+09:45:51.388 [main] INFO  - fill the form
+09:45:51.917 [main] INFO  - extracting error message from to details
+09:45:52.112 [main] INFO  - displaying the error message in the console
+09:45:52.232 [main] INFO  - storing error message data in excel sheet
+09:46:22.562 [main] INFO  - Open urban_ladder application
+09:46:23.322 [main] INFO  - clicking on the study
+09:46:23.911 [main] INFO  - selecting bookshelves from the dropdown
+09:46:30.660 [main] INFO  - Popup will be displayed
+09:46:31.058 [main] INFO  - closeing the popup
+09:46:31.514 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+09:46:31.829 [main] INFO  - clicking on the storage type
+09:46:32.126 [main] INFO  - selecting open from the dropdown
+09:46:37.477 [main] INFO  - clicked on the price
+09:46:37.929 [main] INFO  - slideing the price slide bar
+09:46:38.750 [main] INFO  - extracting name and price of the bookshelves
+09:46:40.224 [main] INFO  - displaying the same in the console
+09:46:40.497 [main] INFO  - storeing data in excel sheet
+09:46:50.453 [main] INFO  - clicking on the Trending
+09:46:51.053 [main] INFO  - selecting UL Collections from the dropdown
+09:46:52.893 [main] INFO  - clicking on the Category
+09:46:53.360 [main] INFO  - extracting sub-menu items and store it in a List
+09:46:54.575 [main] INFO  - displaying the same List in the console
+09:46:54.837 [main] INFO  - storing data in excel sheet
+09:47:06.009 [main] INFO  - clicking on the gift card
+09:47:08.439 [main] INFO  - hovering over the birthday anniversary
+09:47:08.786 [main] INFO  - clicking on the Chosen
+09:47:09.059 [main] INFO  - clicking on the Amount
+09:47:09.337 [main] INFO  - clicking on next button
+09:47:09.744 [main] INFO  - fill the form
+09:47:10.187 [main] INFO  - extracting error message from to details
+09:47:10.358 [main] INFO  - displaying the error message in the console
+09:47:10.492 [main] INFO  - storing error message data in excel sheet
+10:20:03.973 [main] INFO  - Open urban_ladder application
+10:20:04.663 [main] INFO  - clicking on the study
+10:20:05.314 [main] INFO  - selecting bookshelves from the dropdown
+10:20:14.224 [main] INFO  - Popup will be displayed
+10:20:14.584 [main] INFO  - closeing the popup
+10:20:14.980 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+10:20:15.274 [main] INFO  - clicking on the storage type
+10:20:15.533 [main] INFO  - selecting open from the dropdown
+10:20:20.892 [main] INFO  - clicked on the price
+10:20:21.428 [main] INFO  - slideing the price slide bar
+10:20:22.304 [main] INFO  - extracting name and price of the bookshelves
+10:20:24.366 [main] INFO  - displaying the same in the console
+10:20:24.662 [main] INFO  - storeing data in excel sheet
+10:20:38.439 [main] INFO  - clicking on the Trending
+10:20:38.867 [main] INFO  - selecting UL Collections from the dropdown
+10:20:41.595 [main] INFO  - clicking on the Category
+10:20:41.911 [main] INFO  - extracting sub-menu items and store it in a List
+10:20:42.803 [main] INFO  - displaying the same List in the console
+10:20:43.048 [main] INFO  - storing data in excel sheet
+10:20:52.334 [main] INFO  - clicking on the gift card
+10:20:55.129 [main] INFO  - hovering over the birthday anniversary
+10:20:55.423 [main] INFO  - clicking on the Chosen
+10:20:55.701 [main] INFO  - clicking on the Amount
+10:20:55.981 [main] INFO  - clicking on next button
+10:20:56.339 [main] INFO  - fill the form
+10:20:56.778 [main] INFO  - extracting error message from to details
+10:20:56.928 [main] INFO  - displaying the error message in the console
+10:20:57.019 [main] INFO  - storing error message data in excel sheet
+13:45:23.404 [main] INFO  - Open urban_ladder application
+10:16:39.604 [main] INFO  - Open urban_ladder application
+10:16:40.399 [main] INFO  - clicking on the study
+10:16:41.017 [main] INFO  - selecting bookshelves from the dropdown
+10:16:48.448 [main] INFO  - Popup will be displayed
+10:16:48.808 [main] INFO  - closeing the popup
+10:16:49.221 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+10:16:49.540 [main] INFO  - clicking on the storage type
+10:16:49.797 [main] INFO  - selecting open from the dropdown
+10:16:55.214 [main] INFO  - clicked on the price
+10:16:55.688 [main] INFO  - slideing the price slide bar
+10:16:56.548 [main] INFO  - extracting name and price of the bookshelves
+10:17:06.230 [main] INFO  - clicking on the Trending
+10:17:06.908 [main] INFO  - selecting UL Collections from the dropdown
+10:17:08.710 [main] INFO  - clicking on the Category
+10:17:09.120 [main] INFO  - extracting sub-menu items and store it in a List
+10:17:10.223 [main] INFO  - displaying the same List in the console
+10:17:10.480 [main] INFO  - storing data in excel sheet
+10:17:21.442 [main] INFO  - clicking on the gift card
+10:17:24.821 [main] INFO  - hovering over the birthday anniversary
+10:17:25.165 [main] INFO  - clicking on the Chosen
+10:17:25.426 [main] INFO  - clicking on the Amount
+10:17:25.693 [main] INFO  - clicking on next button
+10:17:26.128 [main] INFO  - fill the form
+10:17:26.525 [main] INFO  - extracting error message from to details
+10:17:26.695 [main] INFO  - displaying the error message in the console
+10:17:26.838 [main] INFO  - storing error message data in excel sheet
+14:17:46.361 [main] INFO  - Open urban_ladder application
+14:17:46.749 [main] INFO  - clicking on the study
+14:17:47.147 [main] INFO  - selecting bookshelves from the dropdown
+14:18:38.313 [main] INFO  - Popup will be displayed
+14:18:38.600 [main] INFO  - closeing the popup
+14:18:38.931 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+14:18:39.221 [main] INFO  - clicking on the storage type
+14:18:39.449 [main] INFO  - selecting open from the dropdown
+14:18:44.840 [main] INFO  - clicked on the price
+14:18:45.370 [main] INFO  - slideing the price slide bar
+14:18:46.171 [main] INFO  - extracting name and price of the bookshelves
+14:19:53.434 [main] INFO  - Open urban_ladder application
+14:19:54.086 [main] INFO  - clicking on the study
+14:19:54.668 [main] INFO  - selecting bookshelves from the dropdown
+14:20:01.657 [main] INFO  - Popup will be displayed
+14:20:02.048 [main] INFO  - closeing the popup
+14:20:02.462 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+14:20:02.802 [main] INFO  - clicking on the storage type
+14:20:03.082 [main] INFO  - selecting open from the dropdown
+14:20:08.507 [main] INFO  - clicked on the price
+14:20:09.103 [main] INFO  - slideing the price slide bar
+14:20:09.941 [main] INFO  - extracting name and price of the bookshelves
+14:20:11.659 [main] INFO  - displaying the same in the console
+14:20:11.971 [main] INFO  - storeing data in excel sheet
+14:20:23.941 [main] INFO  - clicking on the Trending
+14:20:24.507 [main] INFO  - selecting UL Collections from the dropdown
+14:20:27.604 [main] INFO  - clicking on the Category
+14:20:28.000 [main] INFO  - extracting sub-menu items and store it in a List
+14:20:29.362 [main] INFO  - displaying the same List in the console
+14:20:29.646 [main] INFO  - storing data in excel sheet
+14:20:40.534 [main] INFO  - clicking on the gift card
+14:20:43.762 [main] INFO  - hovering over the birthday anniversary
+14:20:44.126 [main] INFO  - clicking on the Chosen
+14:20:44.374 [main] INFO  - clicking on the Amount
+14:20:44.655 [main] INFO  - clicking on next button
+14:20:45.016 [main] INFO  - fill the form
+14:20:45.525 [main] INFO  - extracting error message from to details
+14:20:45.714 [main] INFO  - displaying the error message in the console
+14:20:45.826 [main] INFO  - storing error message data in excel sheet
+14:52:04.755 [main] INFO  - clicking on the gift card
+14:52:47.477 [main] INFO  - clicking on the gift card
+14:52:51.806 [main] INFO  - hovering over the birthday anniversary
+14:52:52.179 [main] INFO  - clicking on the Chosen
+14:52:52.442 [main] INFO  - clicking on the Amount
+14:52:52.733 [main] INFO  - clicking on next button
+14:52:53.190 [main] INFO  - fill the form
+14:52:55.064 [main] INFO  - extracting error message from to details
+14:52:55.254 [main] INFO  - displaying the error message in the console
+14:52:55.360 [main] INFO  - storing error message data in excel sheet
+14:53:28.972 [main] INFO  - clicking on the gift card
+14:53:32.855 [main] INFO  - hovering over the birthday anniversary
+14:53:33.224 [main] INFO  - clicking on the Chosen
+14:53:33.472 [main] INFO  - clicking on the Amount
+14:53:33.770 [main] INFO  - clicking on next button
+14:53:34.252 [main] INFO  - fill the form
+14:53:35.987 [main] INFO  - extracting error message from to details
+14:53:36.171 [main] INFO  - displaying the error message in the console
+14:53:36.335 [main] INFO  - storing error message data in excel sheet
+14:54:29.712 [main] INFO  - Open urban_ladder application
+14:54:30.385 [main] INFO  - clicking on the study
+14:54:30.992 [main] INFO  - selecting bookshelves from the dropdown
+14:54:37.891 [main] INFO  - Popup will be displayed
+14:54:38.257 [main] INFO  - closeing the popup
+14:54:38.654 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+14:54:39.014 [main] INFO  - clicking on the storage type
+14:54:39.250 [main] INFO  - selecting open from the dropdown
+14:54:44.605 [main] INFO  - clicked on the price
+14:54:45.160 [main] INFO  - slideing the price slide bar
+14:54:46.078 [main] INFO  - extracting name and price of the bookshelves
+14:54:47.787 [main] INFO  - displaying the same in the console
+14:54:48.098 [main] INFO  - storeing data in excel sheet
+14:54:59.246 [main] INFO  - clicking on the Trending
+14:54:59.802 [main] INFO  - selecting UL Collections from the dropdown
+14:55:02.294 [main] INFO  - clicking on the Category
+14:55:02.753 [main] INFO  - extracting sub-menu items and store it in a List
+14:55:03.841 [main] INFO  - displaying the same List in the console
+14:55:04.107 [main] INFO  - storing data in excel sheet
+14:55:15.256 [main] INFO  - clicking on the gift card
+14:55:19.370 [main] INFO  - hovering over the birthday anniversary
+14:55:19.765 [main] INFO  - clicking on the Chosen
+14:55:20.045 [main] INFO  - clicking on the Amount
+14:55:20.319 [main] INFO  - clicking on next button
+14:55:20.755 [main] INFO  - fill the form
+14:55:21.861 [main] INFO  - extracting error message from to details
+14:55:22.072 [main] INFO  - displaying the error message in the console
+14:55:22.213 [main] INFO  - storing error message data in excel sheet
+14:59:35.324 [main] INFO  - Open urban_ladder application
+14:59:35.938 [main] INFO  - clicking on the study
+14:59:36.509 [main] INFO  - selecting bookshelves from the dropdown
+14:59:46.382 [main] INFO  - Popup will be displayed
+14:59:46.721 [main] INFO  - closeing the popup
+14:59:47.089 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+14:59:47.383 [main] INFO  - clicking on the storage type
+14:59:47.592 [main] INFO  - selecting open from the dropdown
+14:59:52.959 [main] INFO  - clicked on the price
+14:59:53.480 [main] INFO  - slideing the price slide bar
+14:59:54.269 [main] INFO  - extracting name and price of the bookshelves
+14:59:56.054 [main] INFO  - displaying the same in the console
+14:59:56.363 [main] INFO  - storeing data in excel sheet
+15:00:08.506 [main] INFO  - clicking on the Trending
+15:00:09.073 [main] INFO  - selecting UL Collections from the dropdown
+15:00:11.535 [main] INFO  - clicking on the Category
+15:00:11.970 [main] INFO  - extracting sub-menu items and store it in a List
+15:00:13.278 [main] INFO  - displaying the same List in the console
+15:00:13.557 [main] INFO  - storing data in excel sheet
+15:00:25.772 [main] INFO  - clicking on the gift card
+15:00:30.350 [main] INFO  - hovering over the birthday anniversary
+15:00:30.713 [main] INFO  - clicking on the Chosen
+15:00:30.978 [main] INFO  - clicking on the Amount
+15:00:31.303 [main] INFO  - clicking on next button
+15:00:31.771 [main] INFO  - fill the form
+15:00:38.184 [main] INFO  - extracting error message from to details
+15:00:38.345 [main] INFO  - displaying the error message in the console
+15:00:38.478 [main] INFO  - storing error message data in excel sheet
+15:03:39.185 [main] INFO  - Open urban_ladder application
+15:03:39.835 [main] INFO  - clicking on the study
+15:03:40.455 [main] INFO  - selecting bookshelves from the dropdown
+15:03:47.735 [main] INFO  - Popup will be displayed
+15:03:48.076 [main] INFO  - closeing the popup
+15:03:48.464 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:03:48.780 [main] INFO  - clicking on the storage type
+15:03:49.044 [main] INFO  - selecting open from the dropdown
+15:03:54.423 [main] INFO  - clicked on the price
+15:03:54.989 [main] INFO  - slideing the price slide bar
+15:03:55.798 [main] INFO  - extracting name and price of the bookshelves
+15:03:57.739 [main] INFO  - displaying the same in the console
+15:03:58.029 [main] INFO  - storeing data in excel sheet
+15:04:11.008 [main] INFO  - clicking on the Trending
+15:04:11.629 [main] INFO  - selecting UL Collections from the dropdown
+15:04:14.314 [main] INFO  - clicking on the Category
+15:04:14.707 [main] INFO  - extracting sub-menu items and store it in a List
+15:04:16.431 [main] INFO  - displaying the same List in the console
+15:04:16.745 [main] INFO  - storing data in excel sheet
+15:04:27.612 [main] INFO  - clicking on the gift card
+15:04:31.049 [main] INFO  - hovering over the birthday anniversary
+15:04:31.400 [main] INFO  - clicking on the Chosen
+15:04:31.668 [main] INFO  - clicking on the Amount
+15:04:31.946 [main] INFO  - clicking on next button
+15:04:32.411 [main] INFO  - fill the form
+15:04:38.726 [main] INFO  - extracting error message from to details
+15:04:38.886 [main] INFO  - displaying the error message in the console
+15:04:38.997 [main] INFO  - storing error message data in excel sheet
+15:07:59.921 [main] INFO  - clicking on the gift card
+15:08:03.203 [main] INFO  - hovering over the birthday anniversary
+15:08:03.625 [main] INFO  - clicking on the Chosen
+15:08:03.895 [main] INFO  - clicking on the Amount
+15:08:04.196 [main] INFO  - clicking on next button
+15:08:04.657 [main] INFO  - fill the form
+15:08:11.464 [main] INFO  - extracting error message from to details
+15:08:11.631 [main] INFO  - displaying the error message in the console
+15:08:11.748 [main] INFO  - storing error message data in excel sheet
+15:09:11.312 [main] INFO  - clicking on the gift card
+15:09:14.280 [main] INFO  - hovering over the birthday anniversary
+15:09:14.630 [main] INFO  - clicking on the Chosen
+15:09:14.873 [main] INFO  - clicking on the Amount
+15:09:15.136 [main] INFO  - clicking on next button
+15:09:15.459 [main] INFO  - fill the form
+15:09:22.566 [main] INFO  - extracting error message from to details
+15:09:22.777 [main] INFO  - displaying the error message in the console
+15:09:22.973 [main] INFO  - storing error message data in excel sheet
+15:28:51.682 [main] INFO  - Open urban_ladder application
+15:28:52.357 [main] INFO  - clicking on the study
+15:28:52.930 [main] INFO  - selecting bookshelves from the dropdown
+15:28:59.844 [main] INFO  - Popup will be displayed
+15:29:00.192 [main] INFO  - closeing the popup
+15:29:00.620 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:29:00.934 [main] INFO  - clicking on the storage type
+15:29:01.181 [main] INFO  - selecting open from the dropdown
+15:29:06.587 [main] INFO  - clicked on the price
+15:29:07.086 [main] INFO  - slideing the price slide bar
+15:29:07.911 [main] INFO  - extracting name and price of the bookshelves
+15:29:19.674 [main] INFO  - clicking on the Trending
+15:29:20.346 [main] INFO  - selecting UL Collections from the dropdown
+15:29:22.498 [main] INFO  - clicking on the Category
+15:29:22.900 [main] INFO  - extracting sub-menu items and store it in a List
+15:29:24.399 [main] INFO  - displaying the same List in the console
+15:29:24.791 [main] INFO  - storing data in excel sheet
+15:29:37.710 [main] INFO  - clicking on the gift card
+15:29:40.378 [main] INFO  - hovering over the birthday anniversary
+15:29:40.723 [main] INFO  - clicking on the Chosen
+15:29:40.983 [main] INFO  - clicking on the Amount
+15:29:41.262 [main] INFO  - clicking on next button
+15:29:41.691 [main] INFO  - fill the form
+15:29:48.203 [main] INFO  - extracting error message from to details
+15:29:48.439 [main] INFO  - displaying the error message in the console
+15:29:48.650 [main] INFO  - storing error message data in excel sheet
+15:32:02.052 [main] INFO  - Open urban_ladder application
+15:32:02.846 [main] INFO  - clicking on the study
+15:32:03.483 [main] INFO  - selecting bookshelves from the dropdown
+15:32:10.050 [main] INFO  - Popup will be displayed
+15:32:10.395 [main] INFO  - closeing the popup
+15:32:10.781 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:32:11.118 [main] INFO  - clicking on the storage type
+15:32:11.350 [main] INFO  - selecting open from the dropdown
+15:32:16.701 [main] INFO  - clicked on the price
+15:32:17.240 [main] INFO  - slideing the price slide bar
+15:32:18.103 [main] INFO  - extracting name and price of the bookshelves
+15:32:19.799 [main] INFO  - displaying the same in the console
+15:32:20.069 [main] INFO  - storeing data in excel sheet
+15:32:33.917 [main] INFO  - clicking on the Trending
+15:32:34.547 [main] INFO  - selecting UL Collections from the dropdown
+15:32:36.877 [main] INFO  - clicking on the Category
+15:32:37.264 [main] INFO  - extracting sub-menu items and store it in a List
+15:32:38.679 [main] INFO  - displaying the same List in the console
+15:32:38.956 [main] INFO  - storing data in excel sheet
+15:32:50.931 [main] INFO  - clicking on the gift card
+15:32:54.563 [main] INFO  - hovering over the birthday anniversary
+15:32:54.889 [main] INFO  - clicking on the Chosen
+15:32:55.190 [main] INFO  - clicking on the Amount
+15:32:55.535 [main] INFO  - clicking on next button
+15:32:55.978 [main] INFO  - fill the form
+15:33:02.590 [main] INFO  - extracting error message from to details
+15:33:02.818 [main] INFO  - displaying the error message in the console
+15:33:03.026 [main] INFO  - storing error message data in excel sheet
+15:39:01.858 [main] INFO  - Open urban_ladder application
+15:39:02.343 [main] INFO  - clicking on the study
+15:39:02.607 [main] INFO  - selecting bookshelves from the dropdown
+15:39:18.568 [main] INFO  - Popup will be displayed
+15:39:18.883 [main] INFO  - closeing the popup
+15:39:19.213 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:39:19.485 [main] INFO  - clicking on the storage type
+15:39:19.688 [main] INFO  - selecting open from the dropdown
+15:39:24.990 [main] INFO  - clicked on the price
+15:39:25.349 [main] INFO  - slideing the price slide bar
+15:39:26.039 [main] INFO  - extracting name and price of the bookshelves
+15:39:37.579 [main] INFO  - clicking on the Trending
+15:39:38.083 [main] INFO  - selecting UL Collections from the dropdown
+15:39:40.233 [main] INFO  - clicking on the Category
+15:39:40.557 [main] INFO  - extracting sub-menu items and store it in a List
+15:39:41.411 [main] INFO  - displaying the same List in the console
+15:39:41.662 [main] INFO  - storing data in excel sheet
+15:39:52.053 [main] INFO  - clicking on the gift card
+15:39:55.340 [main] INFO  - hovering over the birthday anniversary
+15:39:55.660 [main] INFO  - clicking on the Chosen
+15:39:55.876 [main] INFO  - clicking on the Amount
+15:39:56.077 [main] INFO  - clicking on next button
+15:39:56.343 [main] INFO  - fill the form
+15:40:02.569 [main] INFO  - extracting error message from to details
+15:40:02.774 [main] INFO  - displaying the error message in the console
+15:40:02.953 [main] INFO  - storing error message data in excel sheet
+15:40:56.938 [main] INFO  - Open urban_ladder application
+15:40:57.454 [main] INFO  - clicking on the study
+15:40:57.925 [main] INFO  - selecting bookshelves from the dropdown
+15:41:05.247 [main] INFO  - Popup will be displayed
+15:41:05.513 [main] INFO  - closeing the popup
+15:41:05.821 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:41:06.078 [main] INFO  - clicking on the storage type
+15:41:06.271 [main] INFO  - selecting open from the dropdown
+15:41:11.556 [main] INFO  - clicked on the price
+15:41:11.922 [main] INFO  - slideing the price slide bar
+15:41:12.611 [main] INFO  - extracting name and price of the bookshelves
+15:41:24.402 [main] INFO  - clicking on the Trending
+15:41:24.823 [main] INFO  - selecting UL Collections from the dropdown
+15:41:26.932 [main] INFO  - clicking on the Category
+15:41:27.251 [main] INFO  - extracting sub-menu items and store it in a List
+15:41:28.133 [main] INFO  - displaying the same List in the console
+15:41:28.328 [main] INFO  - storing data in excel sheet
+15:41:38.646 [main] INFO  - clicking on the gift card
+15:41:41.676 [main] INFO  - hovering over the birthday anniversary
+15:41:42.021 [main] INFO  - clicking on the Chosen
+15:41:42.215 [main] INFO  - clicking on the Amount
+15:41:42.436 [main] INFO  - clicking on next button
+15:41:42.689 [main] INFO  - fill the form
+15:41:48.731 [main] INFO  - extracting error message from to details
+15:41:48.883 [main] INFO  - displaying the error message in the console
+15:41:48.984 [main] INFO  - storing error message data in excel sheet
+15:43:13.352 [main] INFO  - Open urban_ladder application
+15:43:13.819 [main] INFO  - clicking on the study
+15:43:14.253 [main] INFO  - selecting bookshelves from the dropdown
+15:43:21.342 [main] INFO  - Popup will be displayed
+15:43:21.612 [main] INFO  - closeing the popup
+15:43:21.938 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:43:22.205 [main] INFO  - clicking on the storage type
+15:43:22.395 [main] INFO  - selecting open from the dropdown
+15:43:27.671 [main] INFO  - clicked on the price
+15:43:28.044 [main] INFO  - slideing the price slide bar
+15:43:28.748 [main] INFO  - extracting name and price of the bookshelves
+15:43:30.078 [main] INFO  - displaying the same in the console
+15:43:30.296 [main] INFO  - storeing data in excel sheet
+15:43:41.256 [main] INFO  - clicking on the Trending
+15:43:41.670 [main] INFO  - selecting UL Collections from the dropdown
+15:43:44.431 [main] INFO  - clicking on the Category
+15:43:54.693 [main] INFO  - clicking on the gift card
+15:43:58.369 [main] INFO  - hovering over the birthday anniversary
+15:43:58.658 [main] INFO  - clicking on the Chosen
+15:43:58.872 [main] INFO  - clicking on the Amount
+15:43:59.099 [main] INFO  - clicking on next button
+15:43:59.347 [main] INFO  - fill the form
+15:44:05.561 [main] INFO  - extracting error message from to details
+15:44:05.749 [main] INFO  - displaying the error message in the console
+15:44:05.928 [main] INFO  - storing error message data in excel sheet
+15:47:30.071 [main] INFO  - Open urban_ladder application
+15:47:30.538 [main] INFO  - clicking on the study
+15:47:30.978 [main] INFO  - selecting bookshelves from the dropdown
+15:47:37.983 [main] INFO  - Popup will be displayed
+15:47:38.256 [main] INFO  - closeing the popup
+15:47:38.570 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:47:38.806 [main] INFO  - clicking on the storage type
+15:47:38.992 [main] INFO  - selecting open from the dropdown
+15:47:44.285 [main] INFO  - clicked on the price
+15:47:44.675 [main] INFO  - slideing the price slide bar
+15:47:45.416 [main] INFO  - extracting name and price of the bookshelves
+15:47:46.590 [main] INFO  - displaying the same in the console
+15:47:46.834 [main] INFO  - storeing data in excel sheet
+15:47:57.171 [main] INFO  - clicking on the Trending
+15:47:57.596 [main] INFO  - selecting UL Collections from the dropdown
+15:48:00.345 [main] INFO  - clicking on the Category
+15:48:00.688 [main] INFO  - extracting sub-menu items and store it in a List
+15:48:01.587 [main] INFO  - displaying the same List in the console
+15:48:01.807 [main] INFO  - storing data in excel sheet
+15:48:12.415 [main] INFO  - clicking on the gift card
+15:48:17.364 [main] INFO  - hovering over the birthday anniversary
+15:48:17.640 [main] INFO  - clicking on the Chosen
+15:48:17.865 [main] INFO  - clicking on the Amount
+15:48:18.113 [main] INFO  - clicking on next button
+15:48:18.409 [main] INFO  - fill the form
+15:48:24.352 [main] INFO  - extracting error message from to details
+15:48:24.476 [main] INFO  - displaying the error message in the console
+15:48:24.565 [main] INFO  - storing error message data in excel sheet
+15:51:46.378 [main] INFO  - Open urban_ladder application
+15:51:47.046 [main] INFO  - clicking on the study
+15:51:47.697 [main] INFO  - selecting bookshelves from the dropdown
+15:51:54.747 [main] INFO  - Popup will be displayed
+15:51:55.105 [main] INFO  - closeing the popup
+15:51:55.516 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:51:55.864 [main] INFO  - clicking on the storage type
+15:51:56.108 [main] INFO  - selecting open from the dropdown
+15:52:01.496 [main] INFO  - clicked on the price
+15:52:02.026 [main] INFO  - slideing the price slide bar
+15:52:02.876 [main] INFO  - extracting name and price of the bookshelves
+15:52:04.207 [main] INFO  - displaying the same in the console
+15:52:04.537 [main] INFO  - storeing data in excel sheet
+15:52:17.178 [main] INFO  - clicking on the Trending
+15:52:17.755 [main] INFO  - selecting UL Collections from the dropdown
+15:52:20.558 [main] INFO  - clicking on the Category
+15:52:20.983 [main] INFO  - extracting sub-menu items and store it in a List
+15:52:22.504 [main] INFO  - displaying the same List in the console
+15:52:22.839 [main] INFO  - storing data in excel sheet
+15:52:34.632 [main] INFO  - clicking on the gift card
+15:52:38.477 [main] INFO  - hovering over the birthday anniversary
+15:52:38.844 [main] INFO  - clicking on the Chosen
+15:52:39.121 [main] INFO  - clicking on the Amount
+15:52:39.418 [main] INFO  - clicking on next button
+15:52:39.813 [main] INFO  - fill the form
+15:52:46.354 [main] INFO  - extracting error message from to details
+15:52:46.587 [main] INFO  - displaying the error message in the console
+15:52:46.810 [main] INFO  - storing error message data in excel sheet
+15:53:50.863 [main] INFO  - Open urban_ladder application
+15:53:51.508 [main] INFO  - clicking on the study
+15:53:52.197 [main] INFO  - selecting bookshelves from the dropdown
+15:53:59.014 [main] INFO  - Popup will be displayed
+15:53:59.370 [main] INFO  - closeing the popup
+15:53:59.776 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+15:54:00.095 [main] INFO  - clicking on the storage type
+15:54:00.302 [main] INFO  - selecting open from the dropdown
+15:54:05.705 [main] INFO  - clicked on the price
+15:54:06.195 [main] INFO  - slideing the price slide bar
+15:54:07.012 [main] INFO  - extracting name and price of the bookshelves
+15:54:08.553 [main] INFO  - displaying the same in the console
+15:54:08.841 [main] INFO  - storeing data in excel sheet
+15:54:19.787 [main] INFO  - clicking on the Trending
+15:54:20.386 [main] INFO  - selecting UL Collections from the dropdown
+15:54:21.987 [main] INFO  - clicking on the Category
+15:54:22.393 [main] INFO  - extracting sub-menu items and store it in a List
+15:54:23.428 [main] INFO  - displaying the same List in the console
+15:54:23.691 [main] INFO  - storing data in excel sheet
+15:54:34.787 [main] INFO  - clicking on the gift card
+15:54:39.015 [main] INFO  - hovering over the birthday anniversary
+15:54:39.344 [main] INFO  - clicking on the Chosen
+15:54:39.618 [main] INFO  - clicking on the Amount
+15:54:39.922 [main] INFO  - clicking on next button
+15:54:40.347 [main] INFO  - fill the form
+15:54:46.734 [main] INFO  - extracting error message from to details
+15:54:46.941 [main] INFO  - displaying the error message in the console
+15:54:47.141 [main] INFO  - storing error message data in excel sheet
+16:09:17.662 [main] INFO  - Open urban_ladder application
+16:09:18.324 [main] INFO  - clicking on the study
+16:09:18.964 [main] INFO  - selecting bookshelves from the dropdown
+16:09:26.170 [main] INFO  - Popup will be displayed
+16:09:26.543 [main] INFO  - closeing the popup
+16:09:26.961 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+16:09:27.320 [main] INFO  - clicking on the storage type
+16:09:27.554 [main] INFO  - selecting open from the dropdown
+16:09:32.934 [main] INFO  - clicked on the price
+16:09:33.425 [main] INFO  - slideing the price slide bar
+16:09:34.270 [main] INFO  - extracting name and price of the bookshelves
+16:09:35.904 [main] INFO  - displaying the same in the console
+16:09:36.175 [main] INFO  - storeing data in excel sheet
+16:09:47.944 [main] INFO  - clicking on the Trending
+16:09:48.575 [main] INFO  - selecting UL Collections from the dropdown
+16:09:51.441 [main] INFO  - clicking on the Category
+16:09:51.866 [main] INFO  - extracting sub-menu items and store it in a List
+16:09:53.242 [main] INFO  - displaying the same List in the console
+16:09:53.511 [main] INFO  - storing data in excel sheet
+16:10:04.150 [main] INFO  - clicking on the gift card
+16:10:07.441 [main] INFO  - hovering over the birthday anniversary
+16:10:07.747 [main] INFO  - clicking on the Chosen
+16:10:07.947 [main] INFO  - clicking on the Amount
+16:10:08.165 [main] INFO  - clicking on next button
+16:10:08.416 [main] INFO  - fill the form
+16:10:14.612 [main] INFO  - extracting error message from to details
+16:10:14.817 [main] INFO  - displaying the error message in the console
+16:10:15.027 [main] INFO  - storing error message data in excel sheet
+16:31:14.742 [main] INFO  - Open urban_ladder application
+16:31:15.290 [main] INFO  - clicking on the study
+16:31:15.757 [main] INFO  - selecting bookshelves from the dropdown
+16:31:23.668 [main] INFO  - Popup will be displayed
+16:31:23.945 [main] INFO  - closeing the popup
+16:31:24.250 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+16:31:24.491 [main] INFO  - clicking on the storage type
+16:31:24.676 [main] INFO  - selecting open from the dropdown
+16:31:29.950 [main] INFO  - clicked on the price
+16:31:30.343 [main] INFO  - slideing the price slide bar
+16:31:31.070 [main] INFO  - extracting name and price of the bookshelves
+16:31:40.156 [main] INFO  - clicking on the Trending
+16:31:40.638 [main] INFO  - selecting UL Collections from the dropdown
+16:31:42.626 [main] INFO  - clicking on the Category
+16:31:42.930 [main] INFO  - extracting sub-menu items and store it in a List
+16:31:43.816 [main] INFO  - displaying the same List in the console
+16:31:44.046 [main] INFO  - storing data in excel sheet
+16:31:53.737 [main] INFO  - clicking on the gift card
+16:31:56.058 [main] INFO  - hovering over the birthday anniversary
+16:31:56.350 [main] INFO  - clicking on the Chosen
+16:31:56.603 [main] INFO  - clicking on the Amount
+16:31:56.833 [main] INFO  - clicking on next button
+16:31:57.092 [main] INFO  - fill the form
+16:32:03.138 [main] INFO  - extracting error message from to details
+16:32:03.262 [main] INFO  - displaying the error message in the console
+16:32:03.373 [main] INFO  - storing error message data in excel sheet
+16:34:41.041 [main] INFO  - Open urban_ladder application
+16:34:41.532 [main] INFO  - clicking on the study
+16:34:42.001 [main] INFO  - selecting bookshelves from the dropdown
+16:34:49.100 [main] INFO  - Popup will be displayed
+16:34:49.362 [main] INFO  - closeing the popup
+16:34:49.673 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+16:34:49.920 [main] INFO  - clicking on the storage type
+16:34:50.119 [main] INFO  - selecting open from the dropdown
+16:34:55.392 [main] INFO  - clicked on the price
+16:34:55.783 [main] INFO  - slideing the price slide bar
+16:34:56.485 [main] INFO  - extracting name and price of the bookshelves
+16:34:57.659 [main] INFO  - displaying the same in the console
+16:34:57.872 [main] INFO  - storeing data in excel sheet
+16:35:07.204 [main] INFO  - clicking on the Trending
+16:35:07.661 [main] INFO  - selecting UL Collections from the dropdown
+16:35:09.551 [main] INFO  - clicking on the Category
+16:35:09.873 [main] INFO  - extracting sub-menu items and store it in a List
+16:35:10.731 [main] INFO  - displaying the same List in the console
+16:35:10.955 [main] INFO  - storing data in excel sheet
+16:35:19.513 [main] INFO  - clicking on the gift card
+16:35:21.998 [main] INFO  - hovering over the birthday anniversary
+16:35:22.295 [main] INFO  - clicking on the Chosen
+16:35:22.516 [main] INFO  - clicking on the Amount
+16:35:22.756 [main] INFO  - clicking on next button
+16:35:23.023 [main] INFO  - fill the form
+16:35:28.945 [main] INFO  - extracting error message from to details
+16:35:29.093 [main] INFO  - displaying the error message in the console
+16:35:29.193 [main] INFO  - storing error message data in excel sheet
+16:52:11.301 [main] INFO  - Open urban_ladder application
+16:52:11.797 [main] INFO  - clicking on the study
+16:52:12.418 [main] INFO  - selecting bookshelves from the dropdown
+16:52:19.630 [main] INFO  - Popup will be displayed
+16:52:19.914 [main] INFO  - closeing the popup
+16:52:20.229 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+16:52:20.499 [main] INFO  - clicking on the storage type
+16:52:20.703 [main] INFO  - selecting open from the dropdown
+16:52:25.999 [main] INFO  - clicked on the price
+16:52:26.340 [main] INFO  - slideing the price slide bar
+16:52:27.042 [main] INFO  - extracting name and price of the bookshelves
+16:52:27.977 [main] INFO  - displaying the same in the console
+16:52:28.231 [main] INFO  - storeing data in excel sheet
+16:52:37.809 [main] INFO  - clicking on the Trending
+16:52:38.300 [main] INFO  - selecting UL Collections from the dropdown
+16:52:40.964 [main] INFO  - clicking on the Category
+16:52:41.265 [main] INFO  - extracting sub-menu items and store it in a List
+16:52:42.175 [main] INFO  - displaying the same List in the console
+16:52:42.365 [main] INFO  - storing data in excel sheet
+16:52:50.765 [main] INFO  - clicking on the gift card
+16:52:53.308 [main] INFO  - hovering over the birthday anniversary
+16:52:53.593 [main] INFO  - clicking on the Chosen
+16:52:53.769 [main] INFO  - clicking on the Amount
+16:52:53.971 [main] INFO  - clicking on next button
+16:52:54.205 [main] INFO  - fill the form
+16:53:00.418 [main] INFO  - extracting error message from to details
+16:53:00.606 [main] INFO  - displaying the error message in the console
+16:53:00.772 [main] INFO  - storing error message data in excel sheet
+16:55:40.260 [main] INFO  - Open urban_ladder application
+16:55:40.757 [main] INFO  - clicking on the study
+16:55:41.192 [main] INFO  - selecting bookshelves from the dropdown
+16:55:49.446 [main] INFO  - Popup will be displayed
+16:55:49.708 [main] INFO  - closeing the popup
+16:55:50.009 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+16:55:50.284 [main] INFO  - clicking on the storage type
+16:55:50.461 [main] INFO  - selecting open from the dropdown
+16:55:55.729 [main] INFO  - clicked on the price
+16:55:56.051 [main] INFO  - slideing the price slide bar
+16:55:56.750 [main] INFO  - extracting name and price of the bookshelves
+16:55:57.970 [main] INFO  - displaying the same in the console
+16:55:58.184 [main] INFO  - storeing data in excel sheet
+16:56:12.398 [main] INFO  - clicking on the Trending
+16:56:12.795 [main] INFO  - selecting UL Collections from the dropdown
+16:56:15.151 [main] INFO  - clicking on the Category
+16:56:15.509 [main] INFO  - extracting sub-menu items and store it in a List
+16:56:16.486 [main] INFO  - displaying the same List in the console
+16:56:16.736 [main] INFO  - storing data in excel sheet
+16:56:31.870 [main] INFO  - clicking on the gift card
+16:56:34.825 [main] INFO  - hovering over the birthday anniversary
+16:56:35.131 [main] INFO  - clicking on the Chosen
+16:56:35.349 [main] INFO  - clicking on the Amount
+16:56:35.592 [main] INFO  - clicking on next button
+16:56:35.874 [main] INFO  - fill the form
+16:56:41.887 [main] INFO  - extracting error message from to details
+16:56:42.006 [main] INFO  - displaying the error message in the console
+16:56:42.104 [main] INFO  - storing error message data in excel sheet
+16:58:38.825 [main] INFO  - Open urban_ladder application
+16:58:39.267 [main] INFO  - clicking on the study
+16:58:39.760 [main] INFO  - selecting bookshelves from the dropdown
+16:58:47.119 [main] INFO  - Popup will be displayed
+16:58:47.383 [main] INFO  - closeing the popup
+16:58:47.698 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+16:58:47.933 [main] INFO  - clicking on the storage type
+16:58:48.113 [main] INFO  - selecting open from the dropdown
+16:58:53.431 [main] INFO  - clicked on the price
+16:58:53.763 [main] INFO  - slideing the price slide bar
+16:58:54.470 [main] INFO  - extracting name and price of the bookshelves
+16:58:55.666 [main] INFO  - displaying the same in the console
+16:58:55.904 [main] INFO  - storeing data in excel sheet
+16:59:10.121 [main] INFO  - clicking on the Trending
+16:59:10.569 [main] INFO  - selecting UL Collections from the dropdown
+16:59:12.877 [main] INFO  - clicking on the Category
+16:59:13.194 [main] INFO  - extracting sub-menu items and store it in a List
+16:59:14.149 [main] INFO  - displaying the same List in the console
+16:59:14.372 [main] INFO  - storing data in excel sheet
+16:59:28.422 [main] INFO  - clicking on the gift card
+16:59:31.718 [main] INFO  - hovering over the birthday anniversary
+16:59:32.007 [main] INFO  - clicking on the Chosen
+16:59:32.279 [main] INFO  - clicking on the Amount
+16:59:32.498 [main] INFO  - clicking on next button
+16:59:32.769 [main] INFO  - fill the form
+16:59:38.769 [main] INFO  - extracting error message from to details
+16:59:38.874 [main] INFO  - displaying the error message in the console
+16:59:38.988 [main] INFO  - storing error message data in excel sheet
+18:46:18.005 [main] INFO  - Open urban_ladder application
+18:46:18.715 [main] INFO  - clicking on the study
+18:46:19.379 [main] INFO  - selecting bookshelves from the dropdown
+18:46:27.898 [main] INFO  - Popup will be displayed
+18:46:28.254 [main] INFO  - closeing the popup
+18:46:28.740 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+18:46:29.022 [main] INFO  - clicking on the storage type
+18:46:29.256 [main] INFO  - selecting open from the dropdown
+18:46:34.626 [main] INFO  - clicked on the price
+18:46:35.112 [main] INFO  - slideing the price slide bar
+18:46:35.915 [main] INFO  - extracting name and price of the bookshelves
+18:46:37.440 [main] INFO  - displaying the same in the console
+18:46:37.751 [main] INFO  - storeing data in excel sheet
+18:46:53.241 [main] INFO  - clicking on the Trending
+18:46:54.069 [main] INFO  - selecting UL Collections from the dropdown
+18:46:56.942 [main] INFO  - clicking on the Category
+18:46:57.398 [main] INFO  - extracting sub-menu items and store it in a List
+18:46:58.669 [main] INFO  - displaying the same List in the console
+18:46:58.963 [main] INFO  - storing data in excel sheet
+18:47:13.670 [main] INFO  - clicking on the gift card
+18:47:17.176 [main] INFO  - hovering over the birthday anniversary
+18:47:17.525 [main] INFO  - clicking on the Chosen
+18:47:17.789 [main] INFO  - clicking on the Amount
+18:47:18.095 [main] INFO  - clicking on next button
+18:47:18.570 [main] INFO  - fill the form
+18:47:24.841 [main] INFO  - extracting error message from to details
+18:47:24.992 [main] INFO  - displaying the error message in the console
+18:47:25.116 [main] INFO  - storing error message data in excel sheet
+09:08:07.194 [main] INFO  - Open urban_ladder application
+09:08:07.939 [main] INFO  - clicking on the study
+09:08:08.544 [main] INFO  - selecting bookshelves from the dropdown
+09:08:15.542 [main] INFO  - Popup will be displayed
+09:08:15.910 [main] INFO  - closeing the popup
+09:08:16.349 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+09:08:16.678 [main] INFO  - clicking on the storage type
+09:08:17.153 [main] INFO  - selecting open from the dropdown
+09:08:22.572 [main] INFO  - clicked on the price
+09:08:23.073 [main] INFO  - slideing the price slide bar
+09:08:23.891 [main] INFO  - extracting name and price of the bookshelves
+09:08:25.108 [main] INFO  - displaying the same in the console
+09:08:25.477 [main] INFO  - storeing data in excel sheet
+09:08:41.533 [main] INFO  - clicking on the Trending
+09:08:42.100 [main] INFO  - selecting UL Collections from the dropdown
+09:08:43.541 [main] INFO  - clicking on the Category
+09:08:44.022 [main] INFO  - extracting sub-menu items and store it in a List
+09:08:45.422 [main] INFO  - displaying the same List in the console
+09:08:45.693 [main] INFO  - storing data in excel sheet
+09:09:01.936 [main] INFO  - clicking on the gift card
+09:09:04.265 [main] INFO  - hovering over the birthday anniversary
+09:09:04.632 [main] INFO  - clicking on the Chosen
+09:09:04.892 [main] INFO  - clicking on the Amount
+09:09:05.193 [main] INFO  - clicking on next button
+09:09:05.645 [main] INFO  - fill the form
+09:09:12.271 [main] INFO  - extracting error message from to details
+09:09:12.507 [main] INFO  - displaying the error message in the console
+09:09:12.687 [main] INFO  - storing error message data in excel sheet
+16:33:39.977 [main] INFO  - Open urban_ladder application
+16:33:40.738 [main] INFO  - clicking on the study
+16:33:41.347 [main] INFO  - selecting bookshelves from the dropdown
+16:33:48.001 [main] INFO  - Popup will be displayed
+16:33:48.376 [main] INFO  - closeing the popup
+16:33:48.845 [main] INFO  - selecting Exclude Out Of Stock filter from the page
+16:33:49.354 [main] INFO  - clicking on the storage type
+16:33:49.581 [main] INFO  - selecting open from the dropdown
+16:33:54.964 [main] INFO  - clicked on the price
+16:33:55.470 [main] INFO  - slideing the price slide bar
+16:33:56.315 [main] INFO  - extracting name and price of the bookshelves
+16:33:58.097 [main] INFO  - displaying the same in the console
+16:33:58.410 [main] INFO  - storeing data in excel sheet
+16:34:15.241 [main] INFO  - clicking on the Trending
+16:34:15.895 [main] INFO  - selecting UL Collections from the dropdown
+16:34:18.532 [main] INFO  - clicking on the Category
+16:34:18.990 [main] INFO  - extracting sub-menu items and store it in a List
+16:34:20.436 [main] INFO  - displaying the same List in the console
+16:34:20.757 [main] INFO  - storing data in excel sheet
+16:34:36.719 [main] INFO  - clicking on the gift card
+16:34:39.251 [main] INFO  - hovering over the birthday anniversary
+16:34:39.610 [main] INFO  - clicking on the Chosen
+16:34:39.915 [main] INFO  - clicking on the Amount
+16:34:40.240 [main] INFO  - clicking on next button
+16:34:40.690 [main] INFO  - fill the form
+16:34:47.202 [main] INFO  - extracting error message from to details
+16:34:47.428 [main] INFO  - displaying the error message in the console
+16:34:47.616 [main] INFO  - storing error message data in excel sheet
